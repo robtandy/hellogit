@@ -2,11 +2,14 @@
 
 int main (int argc, char **argv) {
 
-  char in[50];
-  printf ("Hello Git!");
-  printf("\n");
-  printf("Enter Your Name: ");
-  scanf("%s", in);
-  printf("Hello, %s!\n", in);
-  return (0);
+	/* This is a test git app */
+
+	char in[50];
+	printf ("Hello Git!");
+	printf("\n");
+	printf("Enter Your Name: ");
+	scanf("%s", in);
+	printf("Hello, %s!\n", in);
+	return (0);
+
 }
