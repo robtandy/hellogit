@@ -10,3 +10,10 @@ Lets flow some work!
 |___|  /\___  >____/____/\____/   \___  /|__||__|  
      \/     \/                   /_____/           
 
+
+You can build and run like this:
+ gcc hello.c -o hello
+ gcc goodbye.c -o goodbye
+
+Usage:  ./hello | goodbye
+
