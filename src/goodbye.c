@@ -6,6 +6,6 @@ int main (int argc, char **argv) {
 
   while (fgets (line, sizeof(line), stdin) != NULL) {
     printf ("%s", line);
-    printf (" Goodbye!\n");
+    printf (" Arrivederci!\n");
   }
 }
