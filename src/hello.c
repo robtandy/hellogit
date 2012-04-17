@@ -9,7 +9,7 @@ int main (int argc, char **argv) {
 	printf("\n");
 	printf("Enter Your Name: ");
 	scanf("%s", in);
-	printf("Buon Giorno, %s!\n", in);
+	printf("Muon Giorno, %s!\n", in);
 	return (0);
 
 }
